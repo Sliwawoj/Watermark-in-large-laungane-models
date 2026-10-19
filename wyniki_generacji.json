@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "category": "high_entropy",
+    "question": "What are the main arguments for and against space exploration?",
+    "response": "For space exploration:\n1. Scientific discovery: It allows us to study celestial bodies that can provide insights into the origins of the universe.\n2. Economic benefits: Space technology has applications in Earth-based industries such as telecommunications and satellite navigation.\n3. National prestige: Success in space activities enhances a nation's global image and technological capabilities.\n\nAgainst space exploration:\n1. Cost-effectiveness: The high initial investment and ongoing maintenance costs make it expensive compared to other forms of research.\n2. Resource allocation: Limited"
+  },
+  {
+    "id": 2,
+    "category": "high_entropy",
+    "question": "Describe the psychological benefits of spending time in nature.",
+    "response": "Spending time in nature can provide numerous psychological benefits including reduced stress levels, improved mood, enhanced focus and creativity, increased feelings of well-being, and a general sense of relaxation and rejuvenation. These effects are believed to be due to exposure to natural environments promoting mindfulness, reducing noise pollution, providing opportunities for physical activity, and offering scenery that stimulates the senses."
+  },
+  {
+    "id": 3,
+    "category": "high_entropy",
+    "question": "Explain how the invention of the printing press changed European society.",
+    "response": "The invention of the printing press by Johannes Gutenberg in the 15th century revolutionized European society by dramatically reducing the cost and complexity of book production. This allowed for the mass distribution of information, fostering literacy rates, accelerating scientific and cultural advancements, promoting religious reform movements, and facilitating communication across long distances. The printing press became central to the spread of new ideas and knowledge during the Renaissance period, significantly impacting intellectual life and political dynamics throughout Europe."
+  },
+  {
+    "id": 4,
+    "category": "high_entropy",
+    "question": "Why do different cultures have different musical scales and preferences?",
+    "response": "Different cultures develop unique musical scales and preferences due to historical influences, geographical factors, religious beliefs, and artistic traditions that evolve over time. These elements shape the way music is composed, performed, and appreciated across various societies. For example, Western classical music often uses major and minor scales influenced by European history, while some indigenous cultures may use complex pentatonic or diatonic systems specific to their linguistic structures and cultural practices."
+  },
+  {
+    "id": 5,
+    "category": "high_entropy",
+    "question": "Explain the concept of cognitive bias and give two real-life examples.",
+    "response": "Cognitive biases are systematic patterns of deviation from norm or rationality in judgment, decision-making, and other aspects of thinking. They occur when people make decisions based on their assumptions rather than objective reality.\n\nTwo real-life examples of cognitive biases include:\n1. Confirmation Bias: People tend to seek out information that confirms what they already believe, while ignoring contradictory evidence.\n2. Anchoring Bias: When making judgments, individuals often rely too heavily on the first piece of information presented (the \"anchor\") instead"
+  },
+  {
+    "id": 6,
+    "category": "low_entropy",
+    "question": "In which year did the Apollo 11 mission land on the Moon and who was the pilot?",
+    "response": "The Apollo 11 mission landed on the Moon in 1969. Buzz Aldrin became one of the first two people to walk on the lunar surface as the pilot of the lunar module Eagle during this historic event."
+  },
+  {
+    "id": 7,
+    "category": "low_entropy",
+    "question": "What is Newton's third law of motion? State it clearly.",
+    "response": "Newton's third law of motion states that for every action, there is an equal and opposite reaction. This means that when two objects interact, they apply forces to each other that are equal in magnitude but opposite in direction."
+  },
+  {
+    "id": 8,
+    "category": "low_entropy",
+    "question": "Who was the first emperor of Rome and in what year did his rule begin?",
+    "response": "The first emperor of Rome was Augustus, who began ruling in 27 BC."
+  },
+  {
+    "id": 9,
+    "category": "low_entropy",
+    "question": "Define what a primary key is in a relational SQL database.",
+    "response": "A primary key in a relational SQL database uniquely identifies each record or tuple within that table and ensures data integrity by preventing duplicate values for the column(s) assigned as the primary key. It typically consists of one or more columns containing unique values that can be used to locate records efficiently."
+  },
+  {
+    "id": 10,
+    "category": "low_entropy",
+    "question": "What is the chemical formula for water and table salt (sodium chloride)?",
+    "response": "Water has the chemical formula H₂O, and table salt (sodium chloride) has the formula NaCl."
+  }
+]
